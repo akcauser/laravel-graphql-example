@@ -1,1 +1,1 @@
-# Laravel Graphql Example
+# Laravel Graphql Example
